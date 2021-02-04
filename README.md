@@ -11,3 +11,9 @@
 
 ## Interface Segregation Principle
 "Clients should not be forced to depend on methods they not used" - Robert C. Martin
+
+## Dependency Inversion Principle
+"
+    A. High-level modules should not depend on low-level modules. Both should depend on abstractions.
+    B. Abstractions should not depend upon details. Details should depend upon abstractions
+" - Robert C. Martin
